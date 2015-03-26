@@ -1,0 +1,16 @@
+*.iml
+target/
+*.ignore
+.project
+.settings
+.idea
+.classpath
+.DS_Store
+/target/
+**/target/
+*.iml
+**/*.iml
+/.idea/
+**/.idea/
+logs/
+
