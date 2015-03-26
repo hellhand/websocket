@@ -27,6 +27,7 @@
     <modules>
         <module>web-socket-rest-api</module>
         <module>web-socket-rest-impl</module>
+        <module>web-socket-rest-client</module>
     </modules>
 
     <name>web-socket-rest</name>
